@@ -759,14 +759,14 @@ Así se verán las pages con el proyecto terminado.
 
 ***/tasks/list***
 
-![Untitled](readme-img/Untitled.png)
+![Untitled](readmeimg/Untitled.png)
 
 El horario que se ve en la esquina superior derecha de la card **no** es el horario de cuando se creo, sino cuando debo hacer esa tarea.
 
 ***/tasks/create***
 
-![Untitled](readme-img/Untitled%201.png)
+![Untitled](readmeimg/Untitled%201.png)
 
 ***/tasks/edit***
 
-![Untitled](readme-img/Untitled%202.png)
+![Untitled](readmeimg/Untitled%202.png)
