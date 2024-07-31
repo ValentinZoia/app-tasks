@@ -1,4 +1,4 @@
-# Typescript, Nodejs & Mongodb CRUD
+# Typescript, Nodejs, Express & Mongodb CRUD
 
 En este proyecto aprenderemos a crear una app CRUD(Create, Read, Update y Delete) usando Nodejs, Mongodb y Typescript en el servidor y vite en el front.
 
